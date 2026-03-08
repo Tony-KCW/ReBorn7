@@ -11,7 +11,7 @@ Windows 7 lookalike with Windows 11 security
   - Moved details pane to bottom  
   - Hid libraries from navigation pane  
 
-- Applied **Windhawk Explorer 7 mod**  
+- Applied **Windhawk mods**  
   - Restored Windows 7–style Explorer layout  
   - Adjusted toolbar and folder view settings  
 
